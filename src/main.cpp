@@ -6,8 +6,8 @@
 // ==========================================
 // 1. CONFIGURACIÓN DE RED Y SERVIDOR
 // ==========================================
-const char* ssid = "iPhone de Julio"; 
-const char* password = "CARADEPAPA123"; 
+const char* ssid = "MARCONI_TECHNOLOGIES"; 
+const char* password = "123456789"; 
 
 // Tu servidor en Render (NO pongas la barra / al final)
 String serverUrl = "https://servicio-mqtt.onrender.com"; 
